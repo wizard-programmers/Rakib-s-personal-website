@@ -1,0 +1,115 @@
+.body{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+font: 70px;
+font-weight: bold;
+}
+#name-light{
+color:#ec4c7a;
+}
+.half-width{
+    width: 40%;
+    float: left; 
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 5px;
+}
+.half-width img{
+    margin-top: 0px;
+    display: flex;
+    width: 80%;
+}
+.top-banner{
+    background-image: url('background/header-bg.png');
+    background-size: contain;
+}
+section{
+    height: 500px;
+}
+p{
+    margin-bottom: 40px;
+}
+.btn{
+   text-decoration: none;
+   background-image:linear-gradient(45deg, lightsalmon, tomato);
+   padding: 10px 20px;
+   border-radius: 5px;
+   color: white; 
+   font-weight: 700px;
+   margin-top: 100px;
+}
+.bio-area{
+    background-image: url(background/footer-bg.png);
+    background-size: contain;
+}
+#last-work{
+    text-align: center;
+    margin-left: 40px;
+    margin-bottom: 5%;
+}
+.latest-work-area{
+    background-image: url(background/latest-work-bg.png);
+    width: 100%;
+    margin-left: 5%;
+    margin-bottom: 2%;
+}
+.work-image{
+    margin-left: 5%;
+}
+.img-1{
+    width: 30%;
+    margin-right: 5px;
+}
+.img-2{
+    width: 30%;
+    margin-right: 5px;
+}
+.img-3{
+    width: 30%;
+    margin-right: 10px;
+}
+#client{
+    text-align: center;
+    font-weight: 700px;
+    margin-bottom: 50px;
+}
+#bruce{
+    text-align: center;
+    line-height: 0%;
+    margin-bottom: 0px;
+}
+#work{
+    margin-top: 7px;
+    text-align: center;
+    font-weight: lighter;
+}
+#para{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.message-area{
+    margin: 10% 20%;
+    border-radius: 5px;
+    text-align: center;
+    background-image: linear-gradient(45deg, rgb(210, 47, 145), rgb(234, 7, 105) );
+    box-shadow: 10px 10px 45px gray;
+}
+.msg{
+color: rgb(227, 217, 217);
+font-size: 15px;
+padding-top: 50px;
+margin-bottom: 0px;
+}
+.g-mail{
+    margin-top: 15px;
+color: rgb(244, 244, 244);
+padding-bottom: 70px;
+}
+.copyright{
+    font-weight: 200;
+    font-size: small;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
